@@ -1,7 +1,7 @@
 {
   "name": "react-native-video-compress",
   "version": "1.0.0",
-  "description": "",
+  "description": "RNVideoCompressor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,12 +9,17 @@
   "keywords": [
     "react-native"
   ],
-  "author": "Sam Cheng",
-  "license": "",
+  "homepage": "https://github.com/vadim312/react-native-video-compress#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadim312/react-native-video-compress.git"
+  },
+  "author": "Vadim Ponurivkskyi",
+  "license": "MIT",
   "devDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.60.0"
   },
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.60.0"
   }
 }
